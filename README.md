@@ -39,3 +39,21 @@ view and download:
 and model/architecture configuration are retained. Weight tensors
 themselves are bit-identical to the original files. Package integrity
 can be verified via `checks/SHA256SUMS.txt`.
+
+---
+
+## WSI Visualization Viewer
+
+The browser-based interactive viewer corresponding to Section 5.6.2 of
+the thesis has been packaged and released separately. Please click the
+link below to view and download:
+
+📦 [Download WSI_Morphology_GUI_EN.zip](https://github.com/lijiangjie50-png/MorphoScale_Path_LJJ/releases/tag/gui-v1)
+
+**Usage:** Download and unzip, then open `index.html` in a browser (or
+run `start_gui.command` / `start_gui.bat`).
+
+**Contents:** Covers the 6 held-out test slides with morphology
+prediction heatmaps, patch-level classification maps, multi-label
+overlap counting, and MCSR (morphology-conditioned scale routing)
+weight visualization.
