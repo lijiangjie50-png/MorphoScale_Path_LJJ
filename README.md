@@ -1,5 +1,6 @@
 # MorphoScale_Path_LJJ
 MorphoScale-Path addresses the limited field-of-view issue in fine-grained OED morphological classification. It freezes a Virchow2 encoder, extracts multi-scale patches (40×/20×/10×) from shared tissue regions, and fuses them via scale-aware, morphology-conditioned routing.
+
 ## Full Source Code & Trained Weights
 
 Due to the large file size (approximately 300MB, including trained model
@@ -8,7 +9,7 @@ model weights, final test results, and visualization viewer have been
 packaged and uploaded as a GitHub Release. Please click the link below to
 view and download:
 
-📦 [Download MorphoScale_Path_Code.zip](https://github.com/<your-username>/MorphoScale_Path_LJJ/releases/tag/v1.0)
+📦 [Download MorphoScale_Path_Code.zip](https://github.com/lijiangjie50-png/MorphoScale_Path_LJJ/releases/tag/v1.0)
 
 **Contents:**
 
